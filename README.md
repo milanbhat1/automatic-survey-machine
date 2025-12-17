@@ -115,8 +115,8 @@ Each source file is fully commented and can be compiled and uploaded independent
 
 ## Hardware Setup
 
-![Robot Hardware](images/hardware_setup.jpg)
-
+![Robot Hardware](images/hardware_setup1.jpg)
+![Robot Hardware](images/hardware_setup2.jpg)
 ---
 
 ## Web-Based Visualization
