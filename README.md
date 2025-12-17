@@ -121,7 +121,7 @@ Each source file is fully commented and can be compiled and uploaded independent
 
 ## Web-Based Visualization
 
-![Live 3D Plot](images/web_plot.png)
+![Live 3D Plot](images/web_plot.jpg)
 
 ---
 
